@@ -77,8 +77,6 @@ npm run dev
 
 * Scalable Component Structure: Building reusable UI blocks.
 
-* State Management Flows: Handling data consistency without complex libraries like Redux (where Context/Props are sufficient).
-
 * Modern CSS: Leveraging Tailwind for complex layouts and animations.
 
 
